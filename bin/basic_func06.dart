@@ -5,5 +5,5 @@ String func(){
 
 // Return the value String type.
 void main() {
-    print(func())
+    print(func());
 }
