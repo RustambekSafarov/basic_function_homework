@@ -7,5 +7,5 @@ int func(a){
 
 //  Increase the value of a to one and return.
 void main() {
-    print(func(4))
+    print(func(4));
 }
