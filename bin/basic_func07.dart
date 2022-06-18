@@ -1,5 +1,5 @@
-int func(){
-    return a = 11;
+int func(a){
+    return a;
 }
 //  Create a function called func.
 
@@ -7,5 +7,5 @@ int func(){
 
 //  Return the value a.
 void main() {
-    print(func());
+    print(func(5));
 }
