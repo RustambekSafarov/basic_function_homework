@@ -1,4 +1,4 @@
-Srting func(){
+String func(){
     return 'codeschooluz';
 }
 // Create a function called func.
